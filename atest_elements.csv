@@ -1,5 +1,5 @@
 ID,Type,Name,Documentation
-ComNet0001,CommunicationNetwork,Adm sone,
+ComNet0001,CommunicationNetwork,Adm sone,asd
 ComNet0002,CommunicationNetwork,Elevnett,
 Constr0001,Constraint,Persondata,
 Constr0002,Constraint,Sensitive persondata,
